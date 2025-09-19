@@ -20,5 +20,5 @@ for (let j of palavras) {
 }
 }
 console.log(frequencias);
-return palavras
+return palavras;
 }
